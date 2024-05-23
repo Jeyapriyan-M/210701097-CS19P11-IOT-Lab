@@ -1,6 +1,6 @@
 ## TOOLS: 
 
-### ARDINUO
+### ARDUINO
 ### PROXIMITY SENSOR
 ### FAN
 ### WHEEL
